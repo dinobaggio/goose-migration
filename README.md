@@ -4,6 +4,8 @@ Migration adalah salah satu aspek yang penting dalam pengembangan perangkat luna
 
 Goose adalah sebuah alat yang membantu dalam mengelola migration database dengan mudah dan efisien, terutama dalam proyek yang menggunakan bahasa pemrograman Go. Dalam artikel ini, kita akan membahas penggunaan Goose untuk melakukan migration database dalam proyek Go.
 
+artikel penuh disini: [dev.to/dinobaggio](https://dev.to/dinobaggio/cara-membuat-migrations-dengan-goose-pada-golang-268c)
+
 ## **Install Goose**
 
 Pertama-tama, Anda perlu menginstal Goose. Anda dapat melakukannya dengan perintah:
